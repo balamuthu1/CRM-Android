@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "esiag-pds",
+  "private_key_id": "2eac60e1262822ff4dc6d07b454b311f1be4c503",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwUX2PJu4gky5H\n0J8LTYuGtS3hjrAFoNUk87dgOce+je+iD5/r+UwUP4+55rtUMFxNKjM/bq0TKNjk\n9Azk9ixLTnarr4WBD5wPJ6n8HwTjMstgNwV+cXVmFWW6LQyNjm8cnYBRgqLhpxyD\nzlJMkMztDO/c60sTBnh2VERSMuZsXLlO4gMQJyzZZGpLbMKmsVL0WwOokgR6FDMh\nR6NHpcKJ9FA/gJea6xImVo/uDPYyW1yf/sB9VxTmL+jXwfmdkgVTxBrn4/zcAy80\nU1pCxG3v1EIg9UYmr8OKDYIopLJBAsRBn+MrGjTqNrNotDCTYZ/V0juSSwquE2IZ\nMrH63RZTAgMBAAECggEAZ+/RzVZMn4VDjfAMIVSYAFPDdShw2RCDNSI6Ig5NkiYH\ncgg15Jvz3ifN6O971FghwRc0WJs8iYPVv7mh9EKtv8LEL9brIzZ5b3GZQddjQS9L\nNi+ZHH1zkDbi3cn6kWO6Wir6XpJcxBqHs6cnWp0tQDwVFazad5+j2VU5ZR8+N/e/\n3VZr4mBzc8RC0mQGckv4CdAp7/T8nx0lLnXJHVR+AE9mQeFSbB+sNyEXeI7ZO6Qh\nwOpEudqC6d7Iyz74fmJEkJ2/oV0oWlP/VM0ZqwNLcXvZBvbqDrbIcssNqXeOrQLS\nDRog0QfwMxSN5lVyA91uJxVIG97ERVIMxWEPt17JMQKBgQD1vUMhLhoV+Zpsivve\n8UWGuSQ1ZM7V5YK8qwz8L0Tpg/dKwdY9jYxoc9JLgIYiSm5xQEK/KPAmi3YLRRxG\nIDDhi07VM5SJ22OT8Wiot2WxQIpo3fN0yOFwyYOO0FXAqXxsKWKYDnWv2F2Qz0Y1\nenOD2T/IJ+XeykEl7eJU8qaveQKBgQC3ri3EaOyCGHDGeeIpy2sNq0XWEDBvaAUj\njd9ekxHfFM8hJChzhyuLS+QCT7SazyPdCLPMIbVFRxtqdTG4TgqmzVpcUCVtFPAX\n/hkfPPI4GOzxPM4chrScjBLo6wes2hPg1QoQlgBSPO9fqbOwWwGXS4RPB1mv1d0g\n2iJgCaJFKwKBgAevzePBz2sUjbILfulwXp5iODG7X4TtUvOX3iYdTGiJiji6a3st\nbFDwHoniEVANR/se6XeVTj3GawDbPpEq/JxxgRvGK0VMqYa9LGrqobGztSCmoLDs\nf7DJfOYAuk32fz/a44yiFyhS+kpHUYjmtapQJ2CZbuVTKkqHcGb72B7xAoGAbEYY\nZHcVM3sEv3qJfumSKXSUriLM6l7+6H5w9WbsWfwCPR77WV6MpIgP1+z0IW2JTnoa\nwnH8UOIhnxeGP4aBcOIMKe50oWB+RyZZ2LgscDUBNxMIzHf7b2yCmRoyZAoJPbdX\nP3+soM2arWFzsrlyrqStUYibrbL7rqnnKYWEShECgYEAhvBfeZovpUIXRauK5QZH\n876t6LTi3/wmPtBaoruVwIn+UfoDCKJB36O8TioizJV8Jy2IsXyMg0yl3rhNx0QG\n0v8dJsESzixy3hx+vviYtjzqfIOb6Y1WAjwAXSG0HCFVnZQy8L6hX7468K3Q0isE\nyFDYXQDkf1Q3UgvPv0fzlhE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "esiag-pds-drive@esiag-pds.iam.gserviceaccount.com",
+  "client_id": "111439602340634995996",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/esiag-pds-drive%40esiag-pds.iam.gserviceaccount.com"
+}
